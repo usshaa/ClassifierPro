@@ -1,0 +1,9 @@
+flask
+onnxruntime
+transformers
+pillow
+torch
+torchvision
+optimum[onnxruntime]
+numpy
+requests
