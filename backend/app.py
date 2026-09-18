@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 import json
-from backend.helper_fun import ClipZeroShotEngine
+from helper_fun import ClipZeroShotEngine
 
 app = Flask(__name__)
 
